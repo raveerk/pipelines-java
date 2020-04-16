@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rayerikrabedevops/pipeline-project/_apis/build/status/raveerk.pipelines-java?branchName=master)](https://dev.azure.com/rayerikrabedevops/pipeline-project/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
